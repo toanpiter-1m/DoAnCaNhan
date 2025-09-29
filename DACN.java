@@ -1,5 +1,5 @@
 
-package dacn;
+package StudentDemo;
 
 public class DACN {
 
